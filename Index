@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Ejercicio Formulario HTML</title>
+    <link rel="shortcut icon" href="img/logo.jpg" type="image/x-icon">
+    <link rel="stylesheet" href="css/estilos.css">
+
+  </head>
+  <body>
+    <header>
+      <div class="logo">
+        <img src="https://www.marthadebayle.com/wp-content/uploads/2021/11/Tecnologia-del-mundo.jpg" alt="logo">
+   
+      </section>
+      </div>
+        <nav>
+            <a href="index.html">Inicio</a>
+            <a href="Errores.html">Errores</a>
+            <a href="Formulario.html">Formulario</a>
+            <a href="Anclas.html">Anclas</a>
+            <a href="Tabla.html">Tabla</a>
+            <a href="Videos.html">Videos</a>
+        </nav>
+
+
+    </header>
+    <main>
+        <section class="contenedor sobre-nosotros">
+            <h2 class="titulo">Bienvenidos/as a Tecnologías de la información </h2>
+            <div class="contenedor-sobre-nosotros">
+                <img src="img/logo.png" alt="" class=logo, width=device-width, initial-scale=1.0>
+                <div class="contenido-textos">
+                    <h3><span>1</span>Asignatura</h3>
+                    <p>Tecnología Web </p>
+                    <h3><span>2</span>Tema</h3>
+                    <p>Elementos HTML 5</p>
+                    <h3><span>3</span>Profesor</h3>
+                    <p> Torres Guarnizo Diana Alexandra</p>
+                    <h3><span>4</span>Alumna</h3>
+                    <p>Quezada Conza Camila Geovanna</p>
+                    <h3><span>5</span>Modalidad de estudios</h3>
+                    <p>A Distancia</p>
+                    <h3><span>5</span>Periodo académico</h3>
+                    <p>OCT/2022 - FEB/2023</p>
+                </div>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <div class="contenedor-footer">
+            <div class="content-foo">
+                <h4>Celular</h4>
+                <p>0986840826</p>
+            </div>
+            <div class="content-foo">
+                <h4>Email</h4>
+                <p>cgquezada5@utpl.edu.ec</p>
+                <p>camiquezadaconza@gmail.com</p>
+            </div>
+            <div class="content-foo">
+                <h4>Ubicación</h4>
+                <p>Cuenca</p>
+            </div>
+        </div>
+        <h2 class="titulo-final">&copy; Tecnologías de la Información UTPL| Camila Geovanna Quezada Conza</h2>
+    </footer>
+</body>
+</html>
