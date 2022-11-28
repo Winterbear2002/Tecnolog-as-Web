@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Ejercicio Formulario HTML</title>
+    <link rel="shortcut icon" href="img/logo.jpg" type="image/x-icon">
+    <link rel="stylesheet" href="css/estilos.css">
+
+  </head>
+  <body>
+    <header>
+      <div class="logo">
+        <img src="https://www.marthadebayle.com/wp-content/uploads/2021/11/Tecnologia-del-mundo.jpg" alt="logo">
+   
+      </section>
+      </div>
+        <nav>
+            <a href="index.html">Inicio</a>
+            <a href="Errores.html">Errores</a>
+            <a href="Formulario.html">Formulario</a>
+            <a href="Anclas.html">Anclas</a>
+            <a href="Tabla.html">Tabla</a>
+            <a href="Videos.html">Videos</a>
+        </nav>
+  </header>
+  <main>
+    <section class="about-tecnologias">
+      <div class="contenedor">
+          <h2 class="titulo">Avances tecnológicos</h2>
+          <div class="servicio-cont">
+              <div class="servicio-ind">
+                  <video src="img/¿Qué debo aprender para ser PROGRAMADOR WEB ¿Por dónde empezar 👨🏻_💻 ✅" autoplay="" muted="" loop="" controls="" width="640"
+                      height="480"></video>
+
+                  <h3>Video 1</h3>
+                  <p>https://www.youtube.com/watch?v=WeqXA-RZQSY</p>
+              </div>
+
+          </div>
+      </div>
+  </section>
+
+  </main>
+
+   <div class="contenedor-footer">
+            <div class="content-foo">
+                <h4>Celular</h4>
+                <p>0986840826</p>
+            </div>
+            <div class="content-foo">
+                <h4>Email</h4>
+                <p>cgquezada5@utpl.edu.ec</p>
+                <p>camiquezadaconza@gmail.com</p>
+            </div>
+            <div class="content-foo">
+                <h4>Ubicación</h4>
+                <p>Cuenca</p>
+            </div>
+        </div>
+        <h2 class="titulo-final">&copy; Tecnologías de la Información UTPL| Camila Geovanna Quezada Conza</h2>
+    </footer>
+</body>
+</html>
