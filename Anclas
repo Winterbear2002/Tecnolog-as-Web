@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Ejercicio Formulario HTML</title>
+    <link rel="shortcut icon" href="img/logo.jpg" type="image/x-icon">
+    <link rel="stylesheet" href="css/estilos.css">
+
+  </head>
+  <body>
+    <header>
+      <div class="logo">
+        <img src="https://www.marthadebayle.com/wp-content/uploads/2021/11/Tecnologia-del-mundo.jpg" alt="logo">
+   
+      </section>
+      </div>
+        <nav>
+            <a href="index.html">Inicio</a>
+            <a href="Errores.html">Errores</a>
+            <a href="Formulario.html">Formulario</a>
+            <a href="Anclas.html">Anclas</a>
+            <a href="Tabla.html">Tabla</a>
+            <a href="Videos.html">Videos</a>
+        </nav>
+  </header>
+  <main>
+    <section>
+      <h1>Tecnologías de desarrollo</h1>
+      <ul>
+        <li><a href="#Td">Tecnologías para desarrollo web</a> </li>
+        <li><a href="#Tf">Tecnologías frontend</a> </li>
+        <li><a href="#Tb">Tecnologías backend</a> </li>
+      </ul>
+      <article>
+        <h2 id="Td">Tecnologías para desarrollo web</h2>
+        <p>Al indagar cada uno de los dos términos de las tecnologías dentro del desarrollo web, se debe decir que, en primer lugar, encontramos el frontend, la parte visible de la plataforma, donde los usuarios interactúan y acceden al contenido. Por otro lado, tenemos el backend, encargado de la lógica, permitir que la interfaz funcione, procesar la información y conectarse con el servidor.
+        Para gestionar ambos, hace falta una serie de lenguajes y frameworks, estos son las tecnologías para desarrollo web.Es importante no confundirlas con CMS como WordPress, PrestaShop o Magento. Estos sistemas de organización de contenidos, los cueles son entornos de trabajo para crear plataformas por parte de usuarios como administradores y participantes.En base a lo antes mencionado, se puede tener los siguientes conceptos de estas tecnologías: </p>
+        <p>FrontEnd: Son aquellas que se usan en el lado Cliente, siendo empleadas en los diferentes dispositivos que utilizamos para conectarnos con el servidor a través de internet. Normalmente estas tecnologías y lenguajes vienen implementados en los diferentes Navegadores que existen, aunque no todos las implementan al 100%. Las tecnologías más utilizadas en el FrontEnd son HTML, CSS, JavaScript, jQuery, Ajax, BootStrap, Angular, etc.</p>
+        <p>BackEnd: Son aquellas que se usan en el lado Servidor, siendo empleadas en el Servidor para gestionar las diferentes peticiones de información que le llegan y para gestionar las bases de datos alojadas en los mismos. La información una vez tratada le es devuelta al dispositivo para que sea visualizada en el dispositivo a través de las tecnologías FrontEnd. Las tecnologías más utilizadas en el BackEnd son PHP, Java, .NET, Python, MySQL, etc.  </p>
+      </article>
+      <h2 id="Tf">Tecnologías frontend</h2>
+      <p>Hablamos del HTML, CSS y JavaScript, los tres permiten el desarrollo de la parte gráfica del proyecto y la
+        interfaz de usuario. .</p>
+        <table style="width: 100%">
+        <td>HTML</td>
+        <td>Es un conjunto de códigos breves que describe el contenido de una plataforma web. Un lenguaje de hipertexto
+          de etiquetas que se encuentra en continua evolución, siendo el más actualizado el HTML5. Se construye bloque a
+          bloque y al guardarlo se puede encontrar a través de los buscadores.</td>
+        </tr>
+        <tr>
+          <td>CSS</td>
+          <td>Da forma a la representación visual del HTML, indicando cómo debe reflejarse. Proporciona el estilo, el
+            diseño, presentándose como una de las tecnologías web por excelencia a las que recurren los desarrolladores
+            gráficos.</td>
+        </tr>
+        <tr>
+          <td>JavaScript</td>
+          <td>Es el encargado de aportar interactividad al desarrollo, programa el comportamiento de los elementos
+            aportando dinamismo a la interfaz. Crea animaciones, objetos, cookies, validación de datos en los
+            formularios, etc. Y, además, es multiplataforma y totalmente universal, por lo que también se puede utilizar
+            para el desarrollo mobile..</td>
+        </tr>
+      </table>
+
+      <h2 id="Tb">Tecnologías backend </h2>
+      <p>Tanto la tecnología del FrontEnd como la del BackEnd se utilizan conjuntamente en el Desarrollo de Aplicaciones con Tecnologías Web. Existen diferentes formas de visualizar páginas y aplicaciones Web.</p>
+      <table style="width: 100%" 
+      <td>php</td>
+        <td>Es una de las mejores tecnologías para desarrollo web, ya que es de uso general y se adapta especialmente a
+          este tipo de desarrollos. Se usa para conectar la plataforma web con el servidor de datos, permitiendo
+          administrar los archivos del server, editar código, compiladores, la recopilación de datos o la modificación
+          de la BBDD, entre más aspectos.</td>
+        </tr>
+        <tr>
+          <td>Python</td>
+          <td>Sencillo pero potente, porque usa un menor número de líneas de código. Además, tiene varias librerías y es
+            totalmente gratuito.</td>
+        </tr>
+        <tr>
+          <td>Java EE</td>
+          <td>También conocido como Jakarta EE o Java Enterprise Edition, opera para el desarrollo y ejecución del
+            software de Java en el backend, muy popular entre las plataformas empresariales de gran nivel..</td>
+        </tr>
+      </table>
+
+    </section>
+  </main>
+
+  <footer>
+     <div class="contenedor-footer">
+            <div class="content-foo">
+                <h4>Celular</h4>
+                <p>0986840826</p>
+            </div>
+            <div class="content-foo">
+                <h4>Email</h4>
+                <p>cgquezada5@utpl.edu.ec</p>
+                <p>camiquezadaconza@gmail.com</p>
+            </div>
+            <div class="content-foo">
+                <h4>Ubicación</h4>
+                <p>Cuenca</p>
+            </div>
+        </div>
+        <h2 class="titulo-final">&copy; Tecnologías de la Información UTPL| Camila Geovanna Quezada Conza</h2>
+    </footer>
+</body>
+</html>
