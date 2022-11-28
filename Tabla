@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Ejercicio Formulario HTML</title>
+    <link rel="shortcut icon" href="img/logo.jpg" type="image/x-icon">
+    <link rel="stylesheet" href="css/estilos.css">
+
+  </head>
+  <body>
+    <header>
+      <div class="logo">
+        <img src="https://www.marthadebayle.com/wp-content/uploads/2021/11/Tecnologia-del-mundo.jpg" alt="logo">
+   
+      </section>
+      </div>
+        <nav>
+            <a href="index.html">Inicio</a>
+            <a href="Errores.html">Errores</a>
+            <a href="Formulario.html">Formulario</a>
+            <a href="Anclas.html">Anclas</a>
+            <a href="Tabla.html">Tabla</a>
+            <a href="Videos.html">Videos</a>
+        </nav>
+    </header>
+    <main>
+        <section class="diferentes">
+            <div class="diferentes-tecnologias">
+                <h2 class="titulo">Tecnologias </h2>
+                <p>Sobre tecnología escuchamos hablar casi a diario. A diferencia del concepto de ciencia, la tecnología parecería estar más cercana a nosotros, porque reconocemos que vivimos inmersos en ella permanentemente. Incluso la vemos en espacios nuevos que nos toca recorrer, agilizando los procesos y acortando los tiempos. Y también tenemos noticias de ella cuando se le adjudica la culpa de la distancia entre la gente, su despersonalización y sus efectos no deseables sobre la vida y el medio ambiente. En fin, sabemos de muchos usos de la tecnología: cura pero también mata, educa pero también empobrece el pensamiento, agiliza o complica nuestra vida, acerca y aleja a las personas… Parecería ser que hay posturas tecnofílicas y tecnofóbicas entre las que nos debatimos, al tiempo que vivimos con ella. Esto no es nuevo, porque hay tecnología desde el momento en que el primer homínido tomó un trozo de madera entre sus manos, y lo usó para defender a sus hijos de las bestias o para matar a un vecino para quedarse con sus recursos. Ese pedazo de madera ya era tecnología. </p>
+                <img src="img/back.jpg" alt="">
+                <table style="width: 100%">
+
+
+                   <tr>
+                        <td><b>Tecnología de operación, equipo y producto</b> </td>
+                        <td>En el primer grupo se incluye la tecnología de operación, que es la que se obtiene a medida
+                            que las técnicas y los progresos tecnológicos van evolucionando con el paso del tiempo.
+                        </td>
+                    <tr>
+                        <td><b>Tecnologías blanda y dur</b> a</td>
+                        <td>Cuando una tecnología no es tangible, sino que se trata de un tipo más vinculado con la
+                            administración, la gestión o la planificación, estamos hablando de un tipo de tecnología
+                            blanda</td>
+                    </tr>
+                    <tr>
+                        <td><b>Tecnología flexible y fija</b> </td>
+                        <td>Las tecnologías fijas no suelen sufrir cambios ni modificaciones salvo en ocasiones
+                            específicas, como cuando está disponible una mejora para aumentar su rendimiento</td>
+                    </tr>
+                     <tr>
+                        <td><b>Tecnología limpia y de materiales</b> </td>
+                        <td>Trabajamos con tecnología limpia cuando usamos los recursos que nos proporciona el medio
+                            ambiente en su justa medida y sin alterar el contexto de una forma nociva.</td>
+                    </tr>
+                    
+                    </tr>
+                </table>
+            </div>
+
+
+            <p>Para leer más del tema, ingresa al siguiente enlace</p>
+            <a
+                href="https://www.universidadviu.com/es/actualidad/nuestros-expertos/los-tipos-de-tecnologia-mas-representativos-que-debes-conocer">Página
+                de Investigación</a>
+
+        </section>
+    </main>
+
+      <footer>
+     <div class="contenedor-footer">
+            <div class="content-foo">
+                <h4>Celular</h4>
+                <p>0986840826</p>
+            </div>
+            <div class="content-foo">
+                <h4>Email</h4>
+                <p>cgquezada5@utpl.edu.ec</p>
+                <p>camiquezadaconza@gmail.com</p>
+            </div>
+            <div class="content-foo">
+                <h4>Ubicación</h4>
+                <p>Cuenca</p>
+            </div>
+        </div>
+        <h2 class="titulo-final">&copy; Tecnologías de la Información UTPL| Camila Geovanna Quezada Conza</h2>
+    </footer>
+</body>
+</html>
